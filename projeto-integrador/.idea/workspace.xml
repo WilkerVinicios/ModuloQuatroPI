@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c0f3bca-c6c3-49d9-88b7-d3c52ca0b21b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/ProjetoIntegradorApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/model/Abastecimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/model/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/model/Veiculos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/repository/AbastecimentoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/repository/UsuarioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/repository/VeiculosRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/resource/AbastecimentoResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/resource/UsuarioResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/br/projetointegrador/resource/VeiculosResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/br/projetointegrador/ProjetoIntegradorApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="developer" />
+        <entry key="$PROJECT_DIR$" value="developer" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\wilke\IdeaProjects\ModuloQuatroPI\projeto-integrador\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UaTf1vTTxCA11kZLkfuBGXsLCQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c0f3bca-c6c3-49d9-88b7-d3c52ca0b21b" name="Default Changelist" comment="" />
+      <created>1575593808999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575593808999</updated>
+      <workItem from="1575593815535" duration="202000" />
+      <workItem from="1575594254334" duration="611000" />
+      <workItem from="1575661876552" duration="146000" />
+      <workItem from="1575662134934" duration="281000" />
+      <workItem from="1575677519526" duration="1765000" />
+    </task>
+    <task id="LOCAL-00001" summary="Esqueleto de Projeto WebService.&#10;Configuraçao Basica.&#10;Sem add Segurança.">
+      <created>1575595469069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575595469071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/projeto-integrador" />
+    </ignored-roots>
+    <MESSAGE value="Esqueleto de Projeto WebService.&#10;Configuraçao Basica.&#10;Sem add Segurança." />
+    <option name="LAST_COMMIT_MESSAGE" value="Esqueleto de Projeto WebService.&#10;Configuraçao Basica.&#10;Sem add Segurança." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1575594453546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1575594453546" />
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1575595460740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575595460735" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1575677539855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575677539855" />
+    <state x="348" y="62" key="NewModule_or_Project.wizard" timestamp="1575594950250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1575594950250" />
+    <state x="371" y="74" key="RollbackChangesDialog" timestamp="1575594843706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="371" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1575594843706" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1575679311024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575679311024" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575595477257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575595477257" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1575661934057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575661934057" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575594674659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1575594674659" />
+    <state x="422" y="258" key="git4idea.ui.GitResetDialog" timestamp="1575594286510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="258" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1575594286510" />
+  </component>
+</project>
