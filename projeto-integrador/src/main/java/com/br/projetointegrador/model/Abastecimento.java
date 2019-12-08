@@ -34,6 +34,18 @@ public class Abastecimento {
     @JoinColumn(name = "id_veiculo")
     private Veiculos veiculos;
 
+    @ManyToOne
+    @JoinColumn(name = "id_usuario")
+    private Usuario usuario;
+
+    public Usuario getUsuario() {
+        return usuario;
+    }
+
+    public void setUsuario(Usuario usuario) {
+        this.usuario = usuario;
+    }
+
     public Long getId() {
         return id;
     }
