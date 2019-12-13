@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c0f3bca-c6c3-49d9-88b7-d3c52ca0b21b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="issue_12" />
+        <entry key="$PROJECT_DIR$" value="developer" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\wilke\IdeaProjects\ModuloQuatroPI\projeto-integrador\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UaTf1vTTxCA11kZLkfuBGXsLCQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProjetoIntegradorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="projeto-integrador" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.br.projetointegrador.ProjetoIntegradorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c0f3bca-c6c3-49d9-88b7-d3c52ca0b21b" name="Default Changelist" comment="" />
+      <created>1575593808999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575593808999</updated>
+      <workItem from="1575593815535" duration="202000" />
+      <workItem from="1575594254334" duration="611000" />
+      <workItem from="1575661876552" duration="146000" />
+      <workItem from="1575662134934" duration="281000" />
+      <workItem from="1575677519526" duration="1765000" />
+      <workItem from="1575737479603" duration="758000" />
+      <workItem from="1575738318194" duration="3018000" />
+      <workItem from="1575748299950" duration="5594000" />
+      <workItem from="1575756146672" duration="674000" />
+      <workItem from="1575757007303" duration="16283000" />
+      <workItem from="1576018176902" duration="15326000" />
+      <workItem from="1576184157097" duration="3008000" />
+    </task>
+    <task id="LOCAL-00001" summary="Esqueleto de Projeto WebService.&#10;Configuraçao Basica.&#10;Sem add Segurança.">
+      <created>1575595469069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575595469071</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add configuração de segurança em WebService.&#10;Classe ImplementsUserDetails&#10;Classe SecurityConfig&#10;&#10;Alteração em &#10;Model Abastecimento&#10;Model Usuario&#10;UsuarioRepository">
+      <created>1575836190626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575836190630</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ediçao em security">
+      <created>1576195222567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576195222568</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/projeto-integrador" />
+    </ignored-roots>
+    <MESSAGE value="Esqueleto de Projeto WebService.&#10;Configuraçao Basica.&#10;Sem add Segurança." />
+    <MESSAGE value="Add configuração de segurança em WebService.&#10;Classe ImplementsUserDetails&#10;Classe SecurityConfig&#10;&#10;Alteração em &#10;Model Abastecimento&#10;Model Usuario&#10;UsuarioRepository" />
+    <MESSAGE value="Ediçao em security" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ediçao em security" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1575594453546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1575594453546" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1575756920369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1575756920369" />
+    <state x="341" y="0" width="697" height="728" key="#Unnamed" timestamp="1575738054287">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="0" width="697" height="728" key="#Unnamed/0.0.1366.728@0.0.1366.728" timestamp="1575738054287" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575749028559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1575749028559" />
+    <state x="511" y="240" width="407" height="247" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1575750054231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="511" y="240" width="407" height="247" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.728@0.0.1366.728" timestamp="1575750054231" />
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1576026957726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576026957726" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575737998500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1575737998500" />
+    <state x="313" y="52" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1575749463505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="313" y="52" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1575749463505" />
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575736932505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1575736932505" />
+    <state x="230" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576102814586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="230" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1576102814586" />
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1576195215705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576195215705" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1575750036789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575750036789" />
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom" timestamp="1576196708717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576196708717" />
+    <state width="1323" height="177" key="GridCell.Tab.0.center" timestamp="1576196708714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576196708714" />
+    <state width="1323" height="177" key="GridCell.Tab.0.left" timestamp="1576196708711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576196708711" />
+    <state width="1323" height="177" key="GridCell.Tab.0.right" timestamp="1576196708714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576196708714" />
+    <state width="1323" height="177" key="GridCell.Tab.1.bottom" timestamp="1576196708718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576196708718" />
+    <state width="1323" height="177" key="GridCell.Tab.1.center" timestamp="1576196708718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576196708718" />
+    <state width="1323" height="177" key="GridCell.Tab.1.left" timestamp="1576196708718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576196708718" />
+    <state width="1323" height="177" key="GridCell.Tab.1.right" timestamp="1576196708718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576196708718" />
+    <state x="348" y="62" key="NewModule_or_Project.wizard" timestamp="1575594950250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1575594950250" />
+    <state x="371" y="74" key="RollbackChangesDialog" timestamp="1575594843706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="371" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1575594843706" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1575750076998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575750076997" />
+    <state x="356" y="61" key="SpringBootCustomization" timestamp="1575750068515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="356" y="61" key="SpringBootCustomization/0.0.1366.728@0.0.1366.728" timestamp="1575750068515" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1576195232728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576195232728" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1576184157332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576184157332" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575738090935">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1575738090935" />
+    <state x="422" y="258" key="git4idea.ui.GitResetDialog" timestamp="1575594286510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="258" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1575594286510" />
+    <state x="87" y="0" key="new project wizard" timestamp="1575837264170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="87" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1575837264170" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1576096298948">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576096298948" />
+    <state x="268" y="46" key="spring file set editor" timestamp="1575749569393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="268" y="46" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1575749569393" />
+  </component>
+</project>
