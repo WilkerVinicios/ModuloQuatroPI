@@ -3,26 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c0f3bca-c6c3-49d9-88b7-d3c52ca0b21b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjetoIntegradorIV/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjetoIntegradorIV/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/ProjetoIntegradorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/ProjetoIntegradorApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/model/Abastecimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/model/Abastecimento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/model/Veiculos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/model/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/repository/VeiculosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/repository/VeiculoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/resource/UsuarioResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/resource/UsuarioResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/resource/VeiculosResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/resource/VeiculoResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/br/projetointegrador/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +129,7 @@
       <workItem from="1575756146672" duration="674000" />
       <workItem from="1575757007303" duration="16283000" />
       <workItem from="1576018176902" duration="15326000" />
-      <workItem from="1576184157097" duration="2286000" />
+      <workItem from="1576184157097" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="Esqueleto de Projeto WebService.&#10;Configuraçao Basica.&#10;Sem add Segurança.">
       <created>1575595469069</created>
@@ -164,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575836190630</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ediçao em security">
+      <created>1576195222567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576195222568</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +165,8 @@
     </ignored-roots>
     <MESSAGE value="Esqueleto de Projeto WebService.&#10;Configuraçao Basica.&#10;Sem add Segurança." />
     <MESSAGE value="Add configuração de segurança em WebService.&#10;Classe ImplementsUserDetails&#10;Classe SecurityConfig&#10;&#10;Alteração em &#10;Model Abastecimento&#10;Model Usuario&#10;UsuarioRepository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add configuração de segurança em WebService.&#10;Classe ImplementsUserDetails&#10;Classe SecurityConfig&#10;&#10;Alteração em &#10;Model Abastecimento&#10;Model Usuario&#10;UsuarioRepository" />
+    <MESSAGE value="Ediçao em security" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ediçao em security" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Notifications" timestamp="1575594453546">
@@ -220,46 +209,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="230" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1576102814586" />
-    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1575836182673">
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1576195215705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575836182673" />
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576195215705" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1575750036789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575750036789" />
-    <state width="1323" height="177" key="GridCell.Tab.0.bottom" timestamp="1576195119398">
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom" timestamp="1576196708717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576195119398" />
-    <state width="1323" height="177" key="GridCell.Tab.0.center" timestamp="1576195119394">
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576196708717" />
+    <state width="1323" height="177" key="GridCell.Tab.0.center" timestamp="1576196708714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576195119392" />
-    <state width="1323" height="177" key="GridCell.Tab.0.left" timestamp="1576195119386">
+    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576196708714" />
+    <state width="1323" height="177" key="GridCell.Tab.0.left" timestamp="1576196708711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576195119386" />
-    <state width="1323" height="177" key="GridCell.Tab.0.right" timestamp="1576195119394">
+    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576196708711" />
+    <state width="1323" height="177" key="GridCell.Tab.0.right" timestamp="1576196708714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576195119394" />
-    <state width="1323" height="177" key="GridCell.Tab.1.bottom" timestamp="1576195119400">
+    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576196708714" />
+    <state width="1323" height="177" key="GridCell.Tab.1.bottom" timestamp="1576196708718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576195119400" />
-    <state width="1323" height="177" key="GridCell.Tab.1.center" timestamp="1576195119399">
+    <state width="1323" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576196708718" />
+    <state width="1323" height="177" key="GridCell.Tab.1.center" timestamp="1576196708718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576195119399" />
-    <state width="1323" height="177" key="GridCell.Tab.1.left" timestamp="1576195119398">
+    <state width="1323" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576196708718" />
+    <state width="1323" height="177" key="GridCell.Tab.1.left" timestamp="1576196708718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576195119398" />
-    <state width="1323" height="177" key="GridCell.Tab.1.right" timestamp="1576195119399">
+    <state width="1323" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576196708718" />
+    <state width="1323" height="177" key="GridCell.Tab.1.right" timestamp="1576196708718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576195119399" />
+    <state width="1323" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576196708718" />
     <state x="348" y="62" key="NewModule_or_Project.wizard" timestamp="1575594950250">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -276,10 +265,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="356" y="61" key="SpringBootCustomization/0.0.1366.728@0.0.1366.728" timestamp="1575750068515" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575836210316">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1576195232728">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575836210316" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576195232728" />
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1576184157332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

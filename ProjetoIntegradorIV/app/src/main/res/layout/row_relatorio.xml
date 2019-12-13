@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Constraint"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardUseCompatPadding="true"
+    tools:ignore="MissingConstraints">
+
+
+    <RelativeLayout
+        android:layout_width="401dp"
+        android:layout_height="610dp">
+
+
+        <TextView
+            android:id="@+id/tx_placaRelatorio"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="20dp"
+            android:lines="2" />
+
+        <TextView
+            android:id="@+id/PostoCaro"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="100dp"
+            android:lines="2"
+            android:text="Posto mais caro" />
+
+        <TextView
+            android:id="@+id/tx_PostoCaro"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="180dp"
+            android:lines="2" />
+
+        <TextView
+            android:id="@+id/PostoBarato"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="250dp"
+            android:lines="2"
+            android:text="Posto mais barato" />
+
+        <TextView
+            android:id="@+id/tx_postoBarato"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="320dp"
+            android:lines="2" />
+
+        <TextView
+            android:id="@+id/media"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="400dp"
+            android:lines="2"
+            android:text="Média de consumo por mês" />
+
+        <TextView
+            android:id="@+id/mediaConsumo"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="480dp"
+            android:lines="2" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Constraint"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardUseCompatPadding="true"
+    tools:ignore="MissingConstraints">
+
+
+    <RelativeLayout
+        android:layout_width="411dp"
+        android:layout_height="218dp"
+        android:background="#803E3E4E">
+
+
+        <TextView
+            android:id="@+id/tx_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:lines="2" />
+
+        <TextView
+            android:id="@+id/tx_odo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="20dp"
+            android:lines="2" />
+
+        <TextView
+            android:id="@+id/tx_placa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="280dp"
+            android:layout_marginTop="20dp"
+            android:lines="2" />
+
+        <TextView
+            android:id="@+id/tx_posto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="100dp"
+            android:lines="2" />
+
+        <TextView
+            android:id="@+id/tx_litros"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="180dp"
+            android:lines="2"
+            android:textColor="#0A0A0A" />
+
+        <TextView
+            android:id="@+id/tx_preco"
+            style="@style/TextAppearance.AppCompat.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="180dp"
+            android:lines="2"
+            android:textColor="#F0EBEB" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
