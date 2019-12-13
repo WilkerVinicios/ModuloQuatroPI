@@ -1,0 +1,54 @@
+pipeline {
+	
+	agent any
+	environment {
+		projectWS = "$WORKSPACE/ProjetoIntegradorIV"
+	}
+	stages {
+
+		stage('Prepare-workspace-remota') {
+			steps {
+				echo 'Criando wrapper para gradle'
+				dir("$projectWS") {
+					sh 'gradle wrapper'
+
+				}
+				echo '************************************************'
+				echo 'Criado wrapper para gradle'
+				echo '************************************************'
+			}
+		}
+		
+		stage('Teste-unit') {
+			steps {
+				echo 'Executando testes de unit e exportando resultados'
+				dir("$projectWS") {
+					sh 'gradlew test'
+
+				}
+				echo '************************************************'
+				echo 'Executado testes de unit e exportando resultados'
+				echo '************************************************'
+			}
+		}
+		
+		stage('build-apk') {
+			steps {
+				echo 'Gerando apk signing'
+				dir("$projectWS") {
+					sh 'gradlew assembleRelease'
+
+				}
+			}
+		}
+		stage('Arquive-apk') {
+			steps {
+				echo 'Arquivando apk gerado'
+				archiveArtifacts artifacts: '**/app-release.apk', fingerprint: true, allowEmptyArchive: true
+//				archiveArtifacts artifacts: '**/app-release-unsigned.apk', fingerprint: true, allowEmptyArchive: false
+				echo 'Salvando tag com nome de artefato'
+
+			}
+		}
+	}
+}

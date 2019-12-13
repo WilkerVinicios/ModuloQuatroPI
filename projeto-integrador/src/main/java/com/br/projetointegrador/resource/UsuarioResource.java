@@ -42,11 +42,11 @@ public class UsuarioResource {
         usuarioRepository.deleteById(id);
     }
     @PutMapping("/{id}")
-    public ResponseEntity<Usuario> update(@PathVariable Long id,@RequestBody Usuario Usuario){
+    public ResponseEntity<Usuario> update(@PathVariable Long id,@RequestBody Usuario usuario){
         Optional<Usuario> usuarioBanco = usuarioRepository.findById(id);
-        BeanUtils.copyProperties(Usuario, usuarioBanco.get());
+        BeanUtils.copyProperties(usuario, usuarioBanco.get());
         usuarioRepository.save(usuarioBanco.get());
-        return ResponseEntity.ok(Usuario);
+        return ResponseEntity.ok(usuario);
     }
 }
 

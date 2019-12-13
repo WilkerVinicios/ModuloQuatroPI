@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:labelFor="@+id/editT_placa"
+        android:text="Placa"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/editT_placa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:hint="Placa"
+        android:inputType="text" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:labelFor="@+id/job"
+        android:text="Tipo"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/radioAlcol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Altomovel"
+            android:checked="true" />
+
+        <RadioButton
+            android:id="@+id/radio_Gasolina"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Moto" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/bnt_salvar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Savar" />
+
+</LinearLayout>

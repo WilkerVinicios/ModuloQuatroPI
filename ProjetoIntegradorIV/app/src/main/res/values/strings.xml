@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ProjetoIntegradorIV</string>
+    <string name="title_activity_veiculo">Veiculo</string>
+    <string name="title_activity_tela_veiculo">TelaVeiculo</string>
+    <string name="action_settings">Settings</string>
 </resources>

@@ -3,8 +3,8 @@ package com.br.projetointegrador.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name="veiculos")
-public class Veiculos {
+@Table(name="veiculo")
+public class Veiculo {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
 
@@ -16,6 +16,10 @@ public class Veiculos {
 
     @Column(name= "tipo")
     private String tipo;
+
+    @ManyToOne
+    @JoinColumn(name ="id_usuario")
+    private Usuario usuario;
 
     public Long getId() {
         return id;
@@ -39,5 +43,13 @@ public class Veiculos {
 
     public void setTipo(String tipo) {
         this.tipo = tipo;
+    }
+
+    public Usuario getUsuario() {
+        return usuario;
+    }
+
+    public void setUsuario(Usuario usuario) {
+        this.usuario = usuario;
     }
 }

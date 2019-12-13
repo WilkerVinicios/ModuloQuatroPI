@@ -1,6 +1,5 @@
 package com.br.projetointegrador.model;
 
-import org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
@@ -21,18 +20,6 @@ public class Usuario implements UserDetails {
 
     @Column(name= "senha")
     private String senha;
-
-    @ManyToOne
-    @JoinColumn(name ="id_veiculo")
-    private Veiculos veiculos;
-
-    public Veiculos getVeiculos() {
-        return veiculos;
-    }
-
-    public void setVeiculos(Veiculos veiculos) {
-        this.veiculos = veiculos;
-    }
 
     public Long getId() {
         return id;
