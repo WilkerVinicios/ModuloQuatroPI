@@ -13,38 +13,26 @@ public class Abastecimento {
     private Long id;
 
     @Column(name = "odo")
-    private String odo;
+    private int odo;
 
     @Column(name = "litros")
     private double litros;
 
-    @Column(name = "total_pago")
-    private double total_pago;
+    @Column(name = "preco_litro")
+    private double preco_litro;
 
     @Column(name = "nome_posto")
     private String nome_posto;
 
-    @Column(name = "tipo_combustivel")
-    private String tipo_combustivel;
-
     @Column(name = "data")
     private Date data;
 
+    @Column(name = "tipo_combustivel")
+    private String tipo_combustivel;
+
     @ManyToOne
     @JoinColumn(name = "id_veiculo")
-    private Veiculos veiculos;
-
-    @ManyToOne
-    @JoinColumn(name = "id_usuario")
-    private Usuario usuario;
-
-    public Usuario getUsuario() {
-        return usuario;
-    }
-
-    public void setUsuario(Usuario usuario) {
-        this.usuario = usuario;
-    }
+    private Veiculo veiculo;
 
     public Long getId() {
         return id;
@@ -54,11 +42,11 @@ public class Abastecimento {
         this.id = id;
     }
 
-    public String getOdo() {
+    public int getOdo() {
         return odo;
     }
 
-    public void setOdo(String odo) {
+    public void setOdo(int odo) {
         this.odo = odo;
     }
 
@@ -70,12 +58,12 @@ public class Abastecimento {
         this.litros = litros;
     }
 
-    public double getTotal_pago() {
-        return total_pago;
+    public double getPreco_litro() {
+        return preco_litro;
     }
 
-    public void setTotal_pago(double total_pago) {
-        this.total_pago = total_pago;
+    public void setPreco_litro(double preco_litro) {
+        this.preco_litro = preco_litro;
     }
 
     public String getNome_posto() {
@@ -86,14 +74,6 @@ public class Abastecimento {
         this.nome_posto = nome_posto;
     }
 
-    public String getTipo_combustivel() {
-        return tipo_combustivel;
-    }
-
-    public void setTipo_combustivel(String tipo_combustivel) {
-        this.tipo_combustivel = tipo_combustivel;
-    }
-
     public Date getData() {
         return data;
     }
@@ -102,11 +82,19 @@ public class Abastecimento {
         this.data = data;
     }
 
-    public Veiculos getVeiculos() {
-        return veiculos;
+    public String getTipo_combustivel() {
+        return tipo_combustivel;
     }
 
-    public void setVeiculos(Veiculos veiculos) {
-        this.veiculos = veiculos;
+    public void setTipo_combustivel(String tipo_combustivel) {
+        this.tipo_combustivel = tipo_combustivel;
+    }
+
+    public Veiculo getVeiculo() {
+        return veiculo;
+    }
+
+    public void setVeiculo(Veiculo veiculo) {
+        this.veiculo = veiculo;
     }
 }

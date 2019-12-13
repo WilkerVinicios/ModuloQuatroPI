@@ -1,8 +1,7 @@
 package com.br.projetointegrador.resource;
 
-
-import com.br.projetointegrador.model.Usuario;
-import com.br.projetointegrador.repository.UsuarioRepository;
+import com.br.projetointegrador.model.Veiculo;
+import com.br.projetointegrador.repository.VeiculoRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -16,37 +15,37 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/usuario")
-public class UsuarioResource {
+@RequestMapping("/veiculo")
+public class VeiculoResource {
 
     @Autowired
-    private UsuarioRepository usuarioRepository;
+    private VeiculoRepository veiculoRepository;
 
     @GetMapping
-    public List<Usuario> list() {
-        return usuarioRepository.findAll();
+    public List<Veiculo> list() {
+        return veiculoRepository.findAll();
     }
     @GetMapping("/{id}")
-    public Optional<Usuario> findById(@PathVariable Long id){
-        return usuarioRepository.findById(id);
+    public Optional<Veiculo> findById(@PathVariable Long id){
+        return veiculoRepository.findById(id);
     }
     @PostMapping
-    public ResponseEntity<Usuario> create (@RequestBody Usuario usuario, HttpServletResponse response) {
-        Usuario save = usuarioRepository.save(usuario);
+    public ResponseEntity<Veiculo> create (@RequestBody Veiculo veiculo, HttpServletResponse response) {
+        Veiculo save = veiculoRepository.save(veiculo);
         URI uri = ServletUriComponentsBuilder.fromCurrentRequestUri().path("/{id}").buildAndExpand(save.getId()).toUri();
         return ResponseEntity.created(uri).body(save);
     }
     @DeleteMapping("/{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void delete(@PathVariable Long id) {
-        usuarioRepository.deleteById(id);
+        veiculoRepository.deleteById(id);
     }
     @PutMapping("/{id}")
-    public ResponseEntity<Usuario> update(@PathVariable Long id,@RequestBody Usuario usuario){
-        Optional<Usuario> usuarioBanco = usuarioRepository.findById(id);
-        BeanUtils.copyProperties(usuario, usuarioBanco.get());
-        usuarioRepository.save(usuarioBanco.get());
-        return ResponseEntity.ok(usuario);
+    public ResponseEntity<Veiculo> update(@PathVariable Long id,@RequestBody Veiculo veiculo){
+        Optional<Veiculo> veiculoBanco = veiculoRepository.findById(id);
+        BeanUtils.copyProperties(veiculo, veiculoBanco.get());
+        veiculoRepository.save(veiculoBanco.get());
+        return ResponseEntity.ok(veiculo);
     }
 }
 
